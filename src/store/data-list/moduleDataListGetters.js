@@ -1,0 +1,12 @@
+/*=========================================================================================
+  File Name: moduleCalendarGetters.js
+  Description: Calendar Module Getters
+  ----------------------------------------------------------------------------------------
+  Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+  Author: Motivate-Soft
+  Author URL: http://www.themeforest.net/user/Motivate-Soft
+==========================================================================================*/
+
+export default {
+  // getItem: state => (productId) => state.products.find((product) => product.id == productId),
+};
